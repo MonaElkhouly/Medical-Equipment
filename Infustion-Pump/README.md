@@ -3,7 +3,7 @@
 ## Overview
 This project is an Arduino-based infusion pump system that precisely controls the flow of liquid using a flow sensor and adjusts the pump speed based on user input. The system includes an LCD for real-time display of flow rate and total volume, and a buzzer to indicate low flow conditions.
 
-![Infusion Pump Design](Infustion-Pump/media/Design.jpeg)
+![Infusion Pump Design](media/Design.jpeg)
 
 ## Features
 - Measures real-time flow rate in L/min
