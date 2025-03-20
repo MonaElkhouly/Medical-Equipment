@@ -31,6 +31,10 @@ This project is an Arduino-based infusion pump system that precisely controls th
 | Button | 9 |
 | Buzzer | 10 |
 
+## Video Demonstration
+
+https://github.com/user-attachments/assets/366068e0-343a-4eea-b11c-607ea9789da7
+
 ## Usage
 - Press the button to decrease the infusion rate to half the speed.
 - The LCD will display the real-time flow rate and total infused volume.
