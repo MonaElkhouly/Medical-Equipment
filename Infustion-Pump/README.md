@@ -31,7 +31,7 @@ This project is an Arduino-based infusion pump system that precisely controls th
 | Button | 9 |
 | Buzzer | 10 |
 
-![Wiring](media/Circuit Connection.jpeg)
+![Wiring](media/CircuitConnection.jpeg)
 
 ## Video Demonstration for test plan
 
