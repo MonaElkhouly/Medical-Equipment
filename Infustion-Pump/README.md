@@ -21,6 +21,7 @@ This project is an Arduino-based infusion pump system that precisely controls th
 - Water pump
 - Push button
 - Buzzer
+![Wiring](media/CircuitConnection.jpeg)
 
 ## Wiring Diagram
 | Component  | Arduino Pin |
@@ -30,8 +31,6 @@ This project is an Arduino-based infusion pump system that precisely controls th
 | Pump Motor (IN3, IN4, ENB) | 7, 6, 8 |
 | Button | 9 |
 | Buzzer | 10 |
-
-![Wiring](media/CircuitConnection.jpeg)
 
 ## Video Demonstration for test plan
 
