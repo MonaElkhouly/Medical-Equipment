@@ -21,6 +21,7 @@ This project is an Arduino-based infusion pump system that precisely controls th
 - Water pump
 - Push button
 - Buzzer
+![Wiring](media/CircuitConnection.jpeg)
 
 ## Wiring Diagram
 | Component  | Arduino Pin |
