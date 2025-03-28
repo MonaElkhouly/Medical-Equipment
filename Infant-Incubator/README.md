@@ -1,7 +1,7 @@
 # Infant Incubator Monitoring System
 
 ## Overview
-This project is an Infant Incubator Monitoring System that measures and regulates temperature, humidity, and heart rate using an Arduino-based system. It features an LCD display, a temperature/humidity sensor (DHT11), a Pulse Sensor, a relay system for heating and cooling, and a buzzer for alerts.
+This project is an Infant Incubator Monitoring System that measures and regulates temperature, humidity, and heart rate using an Arduino-based system. It features an LCD display, a temperature/humidity sensor (DHT11), a Pulse Sensor, a 12v fan and an AC lamp system for heating and cooling, and a buzzer for alerts.
 
 ![Infant Incubator Design](media/3.jpeg)
 
@@ -9,7 +9,7 @@ This project is an Infant Incubator Monitoring System that measures and regulate
 - **Temperature and Humidity Monitoring**: Uses a DHT11 sensor to measure environmental conditions.
 - **Heart Rate Monitoring**: Uses a Pulse Sensor to track BPM (beats per minute).
 - **LCD Display**: Shows real-time temperature, humidity, and BPM readings.
-- **Automated Temperature Control**: Activates a relay to control heating and cooling based on temperature thresholds.
+- **Automated Temperature Control**: Activates lamp and 12v fan to control heating and cooling based on temperature thresholds.
 - **Buzzer Alerts**: Sounds an alarm if temperature goes beyond the safe range.
 
 ## Components
@@ -18,6 +18,8 @@ This project is an Infant Incubator Monitoring System that measures and regulate
 - **Pulse Sensor**
 - **16x2 LCD Display**
 - **Relay Module (for controlling heating/cooling elements)**
+- **12vFan**
+- **AC Lamp**
 - **Buzzer**
 - **Wires and Breadboard**
 
@@ -39,7 +41,7 @@ This project is an Infant Incubator Monitoring System that measures and regulate
   - D7 → Pin 12
 
 - **Relay Module**:
-  - Heating Control → A5
+  - Fan Control → A5
   - Lamp Control → Pin 3
 
 - **Buzzer**:
