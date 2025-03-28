@@ -45,6 +45,12 @@ This project is an Infant Incubator Monitoring System that measures and regulate
 - **Buzzer**:
   - Signal → Pin 13
 
+## Test Plan
+  
+
+https://github.com/user-attachments/assets/97831650-28da-4bbf-a033-6b71b6d8c13d
+
+
 ## Code Script Explanation
 1. **Initialize Sensors & LCD**: Setup DHT11, Pulse Sensor, and LCD.
 2. **Read BPM**: Detect heartbeats and display BPM.
