@@ -24,6 +24,7 @@ This project is an Infant Incubator Monitoring System that measures and regulate
 - **Wires and Breadboard**
 
 ## Circuit Connections
+![Infant Incubator Design](media/circuit_image.jpeg)
 - **DHT11 Sensor**:
   - VCC → 5V
   - GND → GND
