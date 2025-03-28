@@ -3,6 +3,8 @@
 ## Overview
 This project is an Infant Incubator Monitoring System that measures and regulates temperature, humidity, and heart rate using an Arduino-based system. It features an LCD display, a temperature/humidity sensor (DHT11), a Pulse Sensor, a relay system for heating and cooling, and a buzzer for alerts.
 
+![Infant Incubator Design](media/1.jpeg)
+
 ## Features
 - **Temperature and Humidity Monitoring**: Uses a DHT11 sensor to measure environmental conditions.
 - **Heart Rate Monitoring**: Uses a Pulse Sensor to track BPM (beats per minute).
