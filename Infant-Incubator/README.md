@@ -48,10 +48,8 @@ This project is an Infant Incubator Monitoring System that measures and regulate
   - Signal → Pin 13
 
 ## Test Plan
-  
 
-https://github.com/user-attachments/assets/97831650-28da-4bbf-a033-6b71b6d8c13d
-
+https://github.com/user-attachments/assets/c258c667-2a45-46e9-ae4a-2201d76f816b
 
 ## Code Script Explanation
 1. **Initialize Sensors & LCD**: Setup DHT11, Pulse Sensor, and LCD.
