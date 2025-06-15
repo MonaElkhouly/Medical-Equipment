@@ -7,7 +7,7 @@ Welcome to the Medical Equipment Directory! Dive into this collection of five in
 ## Project Links
 
 - [Infant Incubator](Infant-Incubator)
-  - [AI Organs Image Classifier Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/AI%20Organs%20Image%20Classifier/README.md)
+  - [Infant Incubator Readme](Infant-Incubator/README.md)
 - [DICOM Viewer](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/DICOM_Viewer)
   - [DICOM Viewer Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/DICOM_Viewer/README.md)
 - [Football Match AI Tracker](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/Football_AITracker)
