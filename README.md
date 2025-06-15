@@ -10,8 +10,8 @@ Welcome to the Medical Equipment Directory! Dive into this collection of five in
   - [Infant Incubator Readme](Infant-Incubator/README.md)
 - [Infusion Pump](Infustion-Pump)
   - [Infusion Pump Readme](Infustion-Pump/README.md)
-- [Otoscope AI Model](https://github.com/MonaElkhouly/Medical-Equipment/tree/main/Otoscope%20AI%20Model))
-  - [Otoscope AI Model Readme](https://github.com/MonaElkhouly/Medical-Equipment/blob/main/Otoscope%20AI%20Model/readme.md))
+- [Otoscope AI Model](https://github.com/MonaElkhouly/Medical-Equipment/tree/main/Otoscope%20AI%20Model)
+  - [Otoscope AI Model Readme](https://github.com/MonaElkhouly/Medical-Equipment/blob/main/Otoscope%20AI%20Model/readme.md)
 - [Hemodiaylsis](Hemodiyalsis)
   - [Hemodiaylsis Readme](Hemodiyalsis/readme.md)
 
@@ -19,7 +19,13 @@ Welcome to the Medical Equipment Directory! Dive into this collection of five in
 - Each project folder contains its own implementation and a detailed README file.
 - Click the links above to navigate directly to the projects or their README files.
 
+## contributors
 
+1. Mona Elkhouly @MonaElkhouly
+2. Rowida Mohammed @rowida117
+3. Aya Emad @Aya423
+4. Omar Gamal @OmarGamalH
+5. 
 
 
  
