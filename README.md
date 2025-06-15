@@ -12,18 +12,14 @@ Welcome to the Medical Equipment Directory! Dive into this collection of five in
   - [Infusion Pump Readme](Infustion-Pump/README.md)
 - [Otoscope AI Model](Otoscope AI Model)
   - [Otoscope AI Model Readme](Otoscope AI Model/readme.md)
-- [Image Quality Viewer](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/Image_Quality_Viewer)
-  - [Image Quality Viewer Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/Image_Quality_Viewer#readme)
-- [MultiPlanar Reconstruction](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/MultiPlanar-Reconstruction)
-  - [MultiPlanar Reconstruction Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/MultiPlanar-Reconstruction/README.md)
-- [Quantum Molecular Imaging Device](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/Quantum%20Molecular%20Imaging%20Device)
-  - [Quantum Molecular Imaging Device Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/Quantum%20Molecular%20Imaging%20Device/README.md)
-- [3D Urinary Puzzle Game](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/Urinary%20System%20Unity%20Puzzle)
-  - [3D Urinary Puzzle Game Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/Urinary%20System%20Unity%20Puzzle/README.md)
+- [Hemodiaylsis](Hemodiyalsis)
+  - [Hemodiaylsis Readme](Hemodiyalsis/readme.md)
 
 ### Instructions
 - Each project folder contains its own implementation and a detailed README file.
 - Click the links above to navigate directly to the projects or their README files.
+
+
 
 
  
