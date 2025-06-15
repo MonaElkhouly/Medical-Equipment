@@ -2,6 +2,8 @@
 
 ## Overview
 Arduino-based hemodialysis system that automatically calculates treatment time based on patient weight and monitors safety parameters during dialysis sessions.
+
+
 ![Prototype](https://github.com/user-attachments/assets/ac9d6f65-4fc2-4493-a1b5-dfcf09974ac3)
 
 ## Features
