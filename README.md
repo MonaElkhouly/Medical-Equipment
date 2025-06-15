@@ -10,8 +10,8 @@ Welcome to the Medical Equipment Directory! Dive into this collection of five in
   - [Infant Incubator Readme](Infant-Incubator/README.md)
 - [Infusion Pump](Infustion-Pump)
   - [Infusion Pump Readme](Infustion-Pump/README.md)
-- [Otoscope AI Model](Otoscope AI Model)
-  - [Otoscope AI Model Readme](Otoscope AI Model/readme.md)
+- [Otoscope AI Model](https://github.com/MonaElkhouly/Medical-Equipment/tree/main/Otoscope%20AI%20Model))
+  - [Otoscope AI Model Readme](https://github.com/MonaElkhouly/Medical-Equipment/blob/main/Otoscope%20AI%20Model/readme.md))
 - [Hemodiaylsis](Hemodiyalsis)
   - [Hemodiaylsis Readme](Hemodiyalsis/readme.md)
 
