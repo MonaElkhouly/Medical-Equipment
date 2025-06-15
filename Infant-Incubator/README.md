@@ -24,6 +24,7 @@ This project is an Infant Incubator Monitoring System that measures and regulate
 - **Wires and Breadboard**
 
 ## Circuit Connections
+![Infant Incubator Design](media/circuit_image.png)
 - **DHT11 Sensor**:
   - VCC → 5V
   - GND → GND
@@ -56,8 +57,8 @@ https://github.com/user-attachments/assets/c258c667-2a45-46e9-ae4a-2201d76f816b
 2. **Read BPM**: Detect heartbeats and display BPM.
 3. **Read Temperature & Humidity**: Fetch values from DHT11.
 4. **Control Relays**:
-   - If **temperature > 30°C**, turn ON the cooling relay and buzzer.
-   - If **temperature < 20°C**, turn ON the heating relay and buzzer.
+   - If **temperature > 30°C**, turn ON the cooling relay, fan and buzzer.
+   - If **temperature < 20°C**, turn ON the heating relay, heating Lamp and buzzer.
 5. **Display Data on LCD**: Show temperature, humidity, and BPM.
 6. **Serial Output**: Print data for debugging.
 
