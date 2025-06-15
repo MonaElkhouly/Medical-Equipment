@@ -1,7 +1,5 @@
 # Medical-Equipment
 
-# Medical Imaging Readme
-
 Welcome to the Medical Equipment Directory! Dive into this collection of five innovative projects, each meticulously crafted to showcase diverse capabilities and solutions related to Medical Equipment. Discover the details and dive into the documentation for each project listed below.
 
 ## Project Links
