@@ -7,9 +7,7 @@ A deep learning model for automated ear condition classification using otoscope 
 
 This project implements a convolutional neural network (CNN) using TensorFlow/Keras to classify otoscope images and assist in medical diagnosis. The model achieves 87% test accuracy using transfer learning from MobileNetV2.
 
-![Otoscope Sample](https://github.com/user-attachments/assets/038f73bb-57cc-49d8-8315-4d4b77674813)
-
-
+![Otoscope Sample](https://github.com/user-attachments/assets/411b9b04-a0a5-4e3c-8aa3-0a95fbddf9b8)
 
 ## 📊 Dataset Classes
 
