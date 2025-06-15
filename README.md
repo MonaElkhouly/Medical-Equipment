@@ -22,10 +22,10 @@ Welcome to the Medical Equipment Directory! Dive into this collection of five in
 ## contributors
 
 1. Mona Elkhouly @MonaElkhouly
-2. Rowida Mohammed @rowida117
-3. Aya Emad @Aya423
-4. Omar Gamal @OmarGamalH
-5. 
+2. Hana Ouda @HanaOuda05
+3. Engy Elsarta @EngyElsarta
+4. Engy Wael @OmarGamalH
+5. Khadija Zakaria @
 
 
  
