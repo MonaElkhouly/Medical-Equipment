@@ -2,9 +2,14 @@
 
 A deep learning model for automated ear condition classification using otoscope images. This project uses transfer learning with MobileNetV2 to classify ear conditions into four categories: Chronic Otitis Media, Earwax Plug, Myringosclerosis, and Normal.
 
+
 ## 🔍 Overview
 
 This project implements a convolutional neural network (CNN) using TensorFlow/Keras to classify otoscope images and assist in medical diagnosis. The model achieves 87% test accuracy using transfer learning from MobileNetV2.
+
+![Otoscope Sample](https://github.com/user-attachments/assets/038f73bb-57cc-49d8-8315-4d4b77674813)
+
+
 
 ## 📊 Dataset Classes
 
@@ -209,11 +214,6 @@ Dense(4, Softmax)
 Output (4 classes)
 ```
 
-## ⚠️ Important Notes
-
-- **Medical Disclaimer**: This model is for educational/research purposes only and should not be used as a substitute for professional medical diagnosis.
-- **Data Quality**: Model performance depends heavily on image quality and proper lighting conditions.
-- **Validation**: Always validate results with medical professionals.
 
 ## 📝 Future Improvements
 
@@ -224,24 +224,3 @@ Output (4 classes)
 - [ ] Add confidence thresholding for uncertain predictions
 - [ ] Expand dataset size for better generalization
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- MobileNetV2 architecture from Google
-- TensorFlow/Keras framework
-- Medical professionals who provided domain expertise
-
-## 📞 Contact
-
-For questions or collaborations, please open an issue or contact [your-email@example.com].
-
----
-
-**Note**: This project is for educational and research purposes. Always consult with qualified medical professionals for actual medical diagnosis and treatment.
